@@ -2,6 +2,8 @@
 
 - I'm currently learning C
 
+- I'm studying programming on Neps Academy and trying to improve my skills.
+
 <!--
 **vitor-th/vitor-th** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
